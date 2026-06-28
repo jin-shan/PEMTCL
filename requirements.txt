@@ -1,0 +1,12 @@
+gensim==3.8.3
+jieba==0.42.1
+nltk==3.7
+numpy==1.21.2
+ray==1.13.0
+scikit_learn==1.1.2
+tensorboardX==2.5.1
+# torch==1.7.0
+https://download.pytorch.org/whl/cu102/torch-1.7.0-cp38-cp38-linux_x86_64.whl
+https://download.pytorch.org/whl/cu102/torchvision-0.8.0-cp38-cp38-linux_x86_64.whl
+tqdm==4.64.0
+transformers==3.4.0
